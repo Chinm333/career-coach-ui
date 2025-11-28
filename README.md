@@ -44,7 +44,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 To set the API base URL, create a `.env` file in the project root with the following content:
 
 ```
-REACT_APP_API_BASE_URL=http://localhost:4000/api
+API_BASE_URL=https://career-coach-api.onrender.com
 ```
 
 Adjust the URL as needed for your backend.
@@ -79,9 +79,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-#### .env
-
-```
-API_BASE_URL=https://career-coach-api.onrender.com
-```
